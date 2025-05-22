@@ -1,1 +1,1 @@
-# motionlab-fullstack-app
+# MotionLab Fullstack Application
