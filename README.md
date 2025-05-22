@@ -1,7 +1,5 @@
 # MotionLab Fullstack Application
 
-# MotionLab Fullstack Application
-
 ***Note:** This is not the original repository. This version consolidates both the backend and frontend components into a single structure for demonstration purposes. The original repositories will be linked below*
 
 - [Backend](https://github.com/Crlss123/motionlab-backend)
